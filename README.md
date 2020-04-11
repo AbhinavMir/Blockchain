@@ -18,7 +18,7 @@
 3. Working with Ganache
 4. What is MetaMask
 
-<b>
+
 
 <hr>
 ## Footer notes from previous talks
