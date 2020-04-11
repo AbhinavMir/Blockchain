@@ -10,21 +10,15 @@
 <b>Week 2</b>
 1. Your first Solidity program
 2. Usecases for using Blockchain
+3. Good coding habits and reproducibility
 
 <b>Week 3</b>
-1. Building a ToDo list on the chain
-2. 
+1. Writing Smart Contracts
+2. Using Web3 and Truffle
+3. Working with Ganache
+4. What is MetaMask
 
-<hr>
-<h1>Tools required:</h1>
-<div>
-
-
-
-
-
-
-
+<b>
 
 <hr>
 ## Footer notes from previous talks
