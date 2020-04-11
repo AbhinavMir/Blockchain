@@ -1,25 +1,37 @@
+<h1>Plan of Course:</h1>
+
+<b>Week 1</b>
+1. Introduce yourselves!
+2. I'm Abhinav
+3. Install all needed tools
+4. Introduction to Blockchain and DeFi
+5. Introduction to Ethereum and Solidity
+
+<b>Week 2</b>
+1. Your first Solidity program
+2. Usecases for using Blockchain
+
+<b>Week 3</b>
+1. Building a ToDo list on the chain
+2. 
+
+<hr>
 <h1>Tools required:</h1>
 <div>
+
+
+
+
+
+
+
+
+<hr>
+## Footer notes from previous talks
 
 1. **Ganache** <a href="https://www.trufflesuite.com/ganache">(Download)</a>: Tool to help you host your local blockchains. Think of it as IIS or XAMP/LAMP.
 2. **Truffle**:  ```npm install truffle -g``` to install Truffle. It is used to automate development tasks like adding a block to your blockchain, migrating all changes, testing etc. Think of it as manage.py from Django.
 3. **Web3** ( ```npm install web3``` ): Used to talk to your Blockchain </div>
-
-<div><h1>How to</h1>
-
-1. ```git clone https://github.com/dappuniversity/social-network main```
-2. ```cd main```
-3. ```npm install```
-4. Open up Ganache and start a Blockchain at the server mentioned in truffle-config.js
-5. ```npm start```
-6. Install Metamask, a Crypto Wallet
-7. Go to Ganache, next to account there will be a key icon, click on it, copy the longer string
-8. Import account into Metamask
-9. Make a post
-10. Confirm Transaction.
-11. There you go.
-
-
 
 <h1>Important Links</h1>
 
@@ -30,38 +42,6 @@
 [The development introduction](https://www.youtube.com/watch?v=nvw27RCTaEw&t=7415s)
 
 <hr>
-
-**Notes on Blockchain**
-
-<h1>Preface</h1>
-
-Welcome, and thank you for your interest. I started Blockchain development after I had a talk with guys from Cosmos India at a Hackathon in my University. I used to not only not understand Blockchain, I had an aversion towards it. Just like how I hated IoT, AI and Machine Learning. They seemed to be overused as buzzwords at hackathons, and as someone who believed in solving problems through design, I used to be mad that I wasn't in on the circle! I mean, I was right to an extent, a lot of problems can be solved via smarter design, but there *are* certain technical limitations. Haptic feedback doesn't have the same effect as a smooth voice UX, which is essentially Natural Language Processing. I started writing this short book as a challenge. I didn't understand the deeper concepts before this book. Some would say I still don't. And that's okay, I have an <a href='https://github.com/abhinavmir/jsmeetup-ethereum'>issues page</a> where every problem in this book will be tackled by experts. After I drop the book, I will not be extensively working on it anymore. If you feel something is wrong, first please try the issues page, and then mail me regarding it.
-
-The approach I take with this book is backwards. I will start with explaining a few basic concepts, and then go on to use examples from the official documentations and explain them in detail. This is what is working for me. However, you don't have to worry, I will still explain things fairly well. 
-
-One question a lot of friends asked me is why is this free? The answer is quite simple. There are a lot of codes I sort of took from other people. Telusko, StackOverflow, Official Documentation, Savjee, dApp University, Blockgeeks, Data Dash, Investopedia and IOHL. I still put in the work of making my best explanation of the code and their theoretical material, but it would be dishonest to call it my own work, these people contributed when there was much less documentation available, these are the real geniuses.
-
-I am putting my understanding and consolidating all these documentations in one place, the price if nothing but your email-ID. Yes, I will send you the new things I write, new podcast episodes I launch or if there is a new venture I am trying.
-
-Now enough of this talk, let's get into development!
-
-**What you will learn from this eBook**
-
-Fundamental concepts of Blockchain and developing simple apps. I will also guide you in making your own small blockchain using vanilla Node JS. Apart from that we will be using Truffle, Ganache, Ethereum and Solidity to make a cool few dApps. To help you further, here is an index.
-
-- Develop your first blockchain
-- Implementing Proof of Work
-- Miner Rewards and transactions
-- Signing Transactions
-- Introduction to Solidity
-- Introduction to Ganache and Truffle
-- Introduction to Web3.JS
-- ToDo list dApp with React
-- References
-
-**A few more important things**
-
-You can send me a mail for any doubts or discrepancies at contact@abhinavmir.tech . You can reach me @abhinavmir on Twitter, Instagram, LinkedIn or Dev.to. I will also credit all the original sources in the references, I'd be really glad if you supported them. 
 
 _______________
 
