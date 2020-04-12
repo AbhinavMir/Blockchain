@@ -35,3 +35,4 @@
 2. Starting an ICO
 3. How to make money in this field
 4. Writing a resume for Blockchain jobs/internships
+5. A quick intro to Hyperledger Fabric, Sawtooth and Cosmos.network
