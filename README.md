@@ -18,7 +18,8 @@
 3. Working with Ganache
 4. What is MetaMask
 
-
+<b>Week 4</b>
+1. 
 
 <hr>
 ## Footer notes from previous talks
