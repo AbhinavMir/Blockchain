@@ -37,3 +37,15 @@
 4. Writing a resume for Blockchain jobs/internships
 5. A quick intro to Hyperledger Fabric, Sawtooth and Cosmos.network
 6. "Where do we go now?"
+
+## Rules
+
+1. Please try to keep all communications in the main Whatsapp group, do not private message till needed. This helps other participants solve their common doubts. If asked, please raise an issue in the the issues page.
+
+2. Submit your assignments for review on or before the deadline. Don't be afraid to make mistakes. I will comment where improvements can be made.
+
+3. Keep learning on your own on the side as well, understand that mentors are volunteers and can't teach you everything, we all are trying our best.
+
+4. Misbehaviour or harrasment, either towards any C4 member or towards fellow mentees will not be tolerated. 
+
+5. Turn on notifications for this Repo and Star it if you are in the program.
