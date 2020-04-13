@@ -49,3 +49,5 @@
 4. Misbehaviour or harrasment, either towards any C4 member or towards fellow mentees will not be tolerated. 
 
 5. Turn on notifications for this Repo and Star it if you are in the program.
+
+6. If you raise an issue with the project, please wait a while while we get back to you. I will be only handling the tech aspect of it, the management team will get in contact with you. You can be candid with us!
