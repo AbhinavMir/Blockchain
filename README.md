@@ -1,3 +1,5 @@
+Please find your tasks here <a href = "https://github.com/AbhinavMir/Blockchain/task.md">Here</a>.
+
 <h1>Plan of Course:</h1>
 
 <b>Week 1</b>
