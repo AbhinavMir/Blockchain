@@ -1,6 +1,6 @@
 ## Week 1
 
-Please submit a PDF of the following questions, answered in 4-5 lines. No minimum or maximum limit, <b>there is NO grading</b>, so please do not complete it for the sake of completing it. Plagarism is unacceptable. If you believe you cannot answer a question: Google it, and answer to the best of your understanding.
+Please submit a PDF of the following questions, answered in 4-5 lines. Although, there is no minimum or maximum limit, <b>there is NO grading</b>, so please do not complete it for the sake of completing it. Plagarism is unacceptable. If you believe you cannot answer a question: Google it, and answer to the best of your understanding.
 
 1. What is the Blockchain?
 2. What is the difference between a decentralized and distributed system?
