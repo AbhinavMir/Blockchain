@@ -22,14 +22,14 @@ This week is all about learning Solidity. I got started with Gregory from dAppUn
 **Task**
 1. Write a Smart Contract in Solidity for a ToDo list (Title, Task, Deadline) and deploy it on any Blockchain (Ganache/Remix).
 2. Make an account on Pluralsight and use that to complete 3-4 courses on Blockchain (suggested below), it is ONLY free for this month.*
-3. Go to <a href="https://faucet.metamask.io/">Ropsten Eth Faucet</a> after installing Metamask and get 1 Eth. Then transact 0.2 Eth (These are not real Ethereum) to my account (0xFb1c5cF9216b1cB431A24072a3CA4Cf4056fa3E0) using Metamask. Use this Ropsten Ethereum to deploy your Smart Contract on the Ropsten Chain.
+3. Go to <a href="https://faucet.metamask.io/">Ropsten Eth Faucet</a> after installing Metamask and get 1 Eth. Then transact 0.2 Eth (These are not real Ethereum) to my account (0xFb1c5cF9216b1cB431A24072a3CA4Cf4056fa3E0) using Metamask. Use this Ropsten Ethereum to deploy your Smart Contract on the Ropsten Chain.<br>
 
-(* Optional)
+(* Optional)<br>
 
-**Submission Guideline**
+**Submission Guideline**<br>
 Submit via GitHub to a repo and send repo link in Group. If you manage to push code to Ropsten, I will test it from my device.
 
-**Reference Links**
+**Reference Links**<br>
 [1] https://www.coursera.org/specializations/blockchain
 [2] https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents
 [3] https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents
