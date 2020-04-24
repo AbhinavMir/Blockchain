@@ -30,7 +30,7 @@ This week is all about learning Solidity. I got started with Gregory from dAppUn
 Submit via GitHub to a repo and send repo link in Group. If you manage to push code to Ropsten, I will test it from my device.
 
 **Reference Links**<br>
-[1] https://www.coursera.org/specializations/blockchain
-[2] https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents
-[3] https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents
-[4] https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents
+[1] https://www.coursera.org/specializations/blockchain<br>
+[2] https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents<br>
+[3] https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents<br>
+[4] https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents<br>
