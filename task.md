@@ -15,4 +15,22 @@ Review <a href = "https://www.youtube.com/watch?v=mhUjJmGguY0">Episode 8, S5 of 
 
 PLease submit your PDF on the group, or personally if you're uncomfortable. Though I will suggest putting it in the group, so that we can have open discussions.
 
+## Week 2
 
+This week is all about learning Solidity. I got started with Gregory from dAppUniversity. Go through his <a href = "https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea">playlist</a> once (obviously skipping some stuff). We will also make use of two super cool websites: Coursera and PluralSight. If you don't like video format, Solidity has a pretty good documentation.
+
+**Task**
+1. Write a Smart Contract in Solidity for a ToDo list (Title, Task, Deadline) and deploy it on any Blockchain (Ganache/Remix).
+2. Make an account on Pluralsight and use that to complete 3-4 courses on Blockchain (suggested below), it is ONLY free for this month.*
+3. Go to <a href="https://faucet.metamask.io/">Ropsten Eth Faucet</a> after installing Metamask and get 1 Eth. Then transact 0.2 Eth (These are not real Ethereum) to my account (0xFb1c5cF9216b1cB431A24072a3CA4Cf4056fa3E0) using Metamask. Use this Ropsten Ethereum to deploy your Smart Contract on the Ropsten Chain.
+
+(* Optional)
+
+**Submission Guideline**
+Submit via GitHub to a repo and send repo link in Group. If you manage to push code to Ropsten, I will test it from my device.
+
+**Reference Links**
+[1] https://www.coursera.org/specializations/blockchain
+[2] https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents
+[3] https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents
+[4] https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents
