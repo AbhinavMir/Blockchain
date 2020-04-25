@@ -1,3 +1,9 @@
+## Week 0
+
+1. Introduce yourselves!
+2. Fork and watch this repo.
+3. Familiarize yourself with Github issues, please raise all queries either in Whatsapp group or in Issues.
+
 ## Week 1
 
 Submit a PDF of the following questions, answered in 4-5 lines. Although, there is no minimum or maximum limit. <b>There is NO grading</b>, So do not complete it for the sake of completing it. Plagarism is unacceptable. If you believe you cannot answer a question: Google it, and answer to the best of your understanding.
