@@ -17,7 +17,7 @@ Submit a PDF of the following questions, answered in 4-5 lines. Although, there 
 <b>Extra Task</b><br>
 Review <a href = "https://www.youtube.com/watch?v=mhUjJmGguY0">Episode 8, S5 of Silicon Valley<a> (That video is not complete, you can find a part 2 of it <a href = "https://www.youtube.com/watch?v=W8W7xhN2ue8">here</a>). Analyze what's happening, what is the 51% attack they talked about and how did they solve it?
   
-## Submission Guidelines
+<b>Submission Guidelines<b><br>
 
 PLease submit your PDF on the group, or personally if you're uncomfortable. Though I will suggest putting it in the group, so that we can have open discussions.
 
@@ -40,3 +40,14 @@ Submit via GitHub to a repo and send repo link in Group. If you manage to push c
 [2] https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents<br>
 [3] https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents<br>
 [4] https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents<br>
+
+## Week 3
+1. Download and Install Docker
+2. Set up Hyperledger on your system
+3. Start your first network
+
+## Week 4
+Try developing a Car Sales app in Fabric
+
+## Week 5
+Develop your first Fungible ERC20 coin
